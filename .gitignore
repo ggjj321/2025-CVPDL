@@ -1,11 +1,16 @@
 # Ignore all CSV files
 *.csv
 
-# Ignore YOLO-related datasets and outputs within the project
+# Ignore YOLO-related datasets and outputs - HW1
 /ntu-cvpdl-2025-hw-1/yolo_dataset/
 /ntu-cvpdl-2025-hw-1/yolo_dataset_rotate/
 /ntu-cvpdl-2025-hw-1/runs/
 /ntu-cvpdl-2025-hw-1/outputs/
+
+# Ignore YOLO-related datasets and outputs - HW2
+/ntu-cvpdl-2025-hw-2/yolo_dataset/
+/ntu-cvpdl-2025-hw-2/runs/
+ntu-cvpdl-2025-hw-2/CVPDL_hw2/CVPDL_hw2/
 
 # Common temporary files (optional)
 __pycache__/
